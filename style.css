@@ -1,0 +1,144 @@
+.banner-main{
+   background-image: url(images/Hero-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+
+}
+.body{
+  /* margin-right: 150px;
+  margin-left: 150px;
+    background-image: url(images/Hero-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat; */
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: #F5F8FF;
+}
+
+.nav-banner{
+  background-image: url(images/Hero-bg.png);
+  background-size: cover;
+  /* font-family:Arial, Helvetica, sans-serif; */
+    background-image: url(images/Hero-bg.png);
+  background-size: cover;
+  justify-content: space-around;
+  background-repeat: no-repeat;
+}
+
+
+
+.nav{
+  justify-content: space-between;
+  display: flex;
+  margin-top: 51px;
+  align-items: center;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.nav >h2{
+  font-size:34px;
+  color: #4E47FF;
+  text-align: center;
+  
+}
+.btn-1{
+  font-size: 16px;
+  color: white;
+  padding: 12px 36px;
+  background-color:#4E47FF ;
+  border: none;
+  border-radius: 10px;
+}
+
+.banner{
+  text-align: center;
+  margin-top: 140px;
+}
+
+.banner >h1{
+  font-size: 65px;
+  font-weight: 700;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.btn-2{
+  font-size: 16px;
+  color: white;
+  padding: 12px 36px;
+  background-color:#4E47FF ;
+  border: none;
+  border-radius: 10px;
+}
+
+/* action-section */
+
+.action-section{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.action-title{
+  font-size: 42px;
+}
+.action-subtitle{
+  font-size:24px ;
+  color:#3f3e4f ;
+}
+.btn-4{
+  font-size: 16px;
+  color: white;
+  padding: 12px 36px;
+  background-color:#4E47FF ;
+  border: none;
+  border-radius: 10px;
+}
+.section-image{
+  border-radius:48px ;
+}
+
+/* section-3 */
+
+.section-3{
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 70px;
+ background-image: linear-gradient(#d9d8ff, #dddbee);
+ border-radius: 24px;
+ padding: 50px 142px 50px 142px ;
+ 
+}
+
+.section-3 >h2{
+  font-size: 38px;
+  font-weight: 600;
+}
+.section-3-element >h3{
+  font-size: 80px;
+  color: #4E47FF;
+  margin-top: 20px;
+}
+.section-3-element >p{
+  font-size: 20px;
+  color: #3f3e4f;
+  margin-top: -80px;
+}
+.section-3-elements{
+  display: flex;
+  gap: 158px;
+}
+
+/* section-4 */
+
+.section-4 >h2{
+  font-size: 42px;
+  font-weight: 600;
+}
+.section-4-1{
+  background-color: white;
+  height: 243px;
+  width:366px ;
+}
