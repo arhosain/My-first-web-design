@@ -11,19 +11,19 @@
     background-image: url(images/Hero-bg.png);
   background-size: cover;
   background-repeat: no-repeat; */
-  margin: auto;
+  /* margin: auto; */
   font-family:Arial, Helvetica, sans-serif;
   background-color: #F5F8FF;
 }
 
 .banner-only{
 background-image: url(images/Hero-bg.png);
+
 }
 .nav-banner{
-  
-  background-size: cover;
   justify-content: space-around;
   background-repeat: no-repeat;
+  
 }
 
 
@@ -31,7 +31,7 @@ background-image: url(images/Hero-bg.png);
 .nav{
   justify-content: space-between;
   display: flex;
-  margin-top: 51px;
+  
   align-items: center;
   margin-right: 150px;
   margin-left: 150px;
@@ -86,6 +86,17 @@ background-image: url(images/Hero-bg.png);
   transition-duration: 0.3s;
 }
 
+
+/* main  */
+
+main{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+
+
+
 /* action-section */
 
 .action-section{
@@ -134,7 +145,7 @@ background-image: url(images/Hero-bg.png);
  border-radius: 24px;
  padding: 50px 142px 50px 142px ;
  justify-content: space-around;
- 
+ background-attachment: fixed;
 }
 
 .section-3 >h2{
@@ -154,8 +165,10 @@ background-image: url(images/Hero-bg.png);
 }
 .section-3-elements{
   display: flex;
-  gap: 200px;
+  gap: 0 auto;
   justify-content: space-around;
+  background-attachment: fixed;
+  
 }
 
 /* section-4 */
