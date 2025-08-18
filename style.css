@@ -296,10 +296,10 @@ main{
 .btn-6{
    font-size: 16px;
   color: white;
-  padding: 12px 36px;
+  padding: 20px 36px;
   background-color:#4E47FF ;
   border: 2px solid #4E47FF;
-  width: 497px;
+  width: 100%;
   border-radius: 10px;
   transition-duration: 0.3s;
 }
