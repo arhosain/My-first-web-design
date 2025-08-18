@@ -164,6 +164,7 @@ background-image: url(images/Hero-bg.png);
   margin-right: 150px;
   margin-left: 150px;
   margin-top: 137px;
+  justify-content: space-around;
  
 }
 
@@ -261,6 +262,9 @@ background-image: url(images/Hero-bg.png);
   align-items: center;
   margin-top: 150px;
   gap: 115px ;
+  justify-content: space-around;
+   margin-right: 150px;
+  margin-left: 150px;
 
 }
 .section-6 >h2{
