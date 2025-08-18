@@ -133,7 +133,7 @@ background-image: url(images/Hero-bg.png);
  background-size: auto;
  border-radius: 24px;
  padding: 50px 142px 50px 142px ;
- justify-content: center;
+ justify-content: space-around;
  
 }
 
@@ -164,6 +164,7 @@ background-image: url(images/Hero-bg.png);
   margin-right: 150px;
   margin-left: 150px;
   margin-top: 137px;
+ 
 }
 
 .section-4 >h2{
@@ -182,6 +183,7 @@ background-image: url(images/Hero-bg.png);
 .sections-rating{
   display: flex;
   gap: 20px;
+   justify-content: space-between;
 }
 
 .rating-title{
