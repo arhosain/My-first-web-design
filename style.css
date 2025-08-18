@@ -11,7 +11,7 @@
     background-image: url(images/Hero-bg.png);
   background-size: cover;
   background-repeat: no-repeat; */
-  
+  margin: auto;
   font-family:Arial, Helvetica, sans-serif;
   background-color: #F5F8FF;
 }
@@ -130,14 +130,17 @@ background-image: url(images/Hero-bg.png);
   margin-left: 150px;
   margin-top: 70px;
  background-image: linear-gradient(#d9d8ff, #dddbee);
+ background-size: auto;
  border-radius: 24px;
  padding: 50px 142px 50px 142px ;
+ justify-content: center;
  
 }
 
 .section-3 >h2{
   font-size: 38px;
   font-weight: 600;
+  text-align: center;
 }
 .section-3-element >h3{
   font-size: 80px;
@@ -151,7 +154,8 @@ background-image: url(images/Hero-bg.png);
 }
 .section-3-elements{
   display: flex;
-  gap: 158px;
+  gap: 200px;
+  justify-content: space-around;
 }
 
 /* section-4 */
